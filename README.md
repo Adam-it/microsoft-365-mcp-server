@@ -1,5 +1,8 @@
 # Microsoft 365 MCP Server
 
+> [!IMPORTANT]  
+> This repository was moved to [cli-microsoft365-mcp-server](https://github.com/pnp/cli-microsoft365-mcp-server)
+
 ## 💡 Description
 
 Currently this is a work in progress and more POC than a solution. 
